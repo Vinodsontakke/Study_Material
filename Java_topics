@@ -1,0 +1,30 @@
+
+🎯 Your Java roadmap
+
+If I were preparing you, I'd use this exact order:
+
+1. Variables & Data Types
+        ↓
+2. Operators
+        ↓
+3. if / else / switch
+        ↓
+4. Loops
+        ↓
+5. Methods
+        ↓
+6. Arrays
+        ↓
+7. Strings
+        ↓
+8. Classes & Objects
+        ↓
+9. OOP
+        ↓
+10. Collections
+        ↓
+11. Exception Handling
+        ↓
+12. Recursion   
+
+After that you can go to solve Question in LeetCode or to more complex consepts 
